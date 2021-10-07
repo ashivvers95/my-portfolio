@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+.profile-photo {
+  height: 10%;
+  width: 12.2%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
